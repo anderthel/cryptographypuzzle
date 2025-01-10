@@ -1,2 +1,2 @@
-# cryptographypuzzle
-A set of tools for cryptography puzzles including automatic puzzle generation
+# irelandweatherdata
+A script to pull and merge data from met.ie
